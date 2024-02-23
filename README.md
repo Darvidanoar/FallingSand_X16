@@ -13,7 +13,7 @@ The objectives were to learn how to:
 I'm fairly new to 6502 assember and have plenty to learn, but this was a fun first challenge.
 
 ## Basic method of play
-There is a colour palette at the top of the screen where the player can point and click the mouse to select a colour.  Then, the user can hold the mouse down anywhere in the 'play area' to drop sand pixels.
+There is a colour palette at the top of the screen where the player can point and click the mouse to select a colour.  Then, the player can hold the mouse down anywhere in the 'play area' to drop sand pixels.
 The sand pixels will fall to the bottom of the screen and pile up.
 
 ## The algorithm
