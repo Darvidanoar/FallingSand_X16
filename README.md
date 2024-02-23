@@ -17,7 +17,8 @@ There is a colour palette at the top of the screen where the player can point an
 The sand pixels will fall to the bottom of the screen and pile up.
 
 ## The algorithm
-Falling sand pixels are tracked in a 256 element array, starting at memory location $0C00.  Each element of the array consists of four bytes:
+Falling sand pixels are tracked in a 256 element array, starting at memory location $0C00.  
+Each element of the array consists of four bytes:
 - Colour of the sand pixel
 - VRAM_Bank_Addr
 - VRAM_Low_Addr
