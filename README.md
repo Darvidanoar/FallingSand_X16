@@ -1,5 +1,5 @@
 # FallingSand_X16
-My first Commander X16 6502 assember coding attempt. I thought I'd try a simple 'Falling Sand' excercise.
+My first Commander X16 6502 assembler coding attempt. I thought I'd try a simple 'Falling Sand' excercise.
 
 ![Falling sand](/FallingSand.png)
 
