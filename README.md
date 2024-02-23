@@ -34,8 +34,9 @@ If yes, then:
 
 If there is no empty (black) pixel that the the sand pixel can fall into, then we assume we're at the bottom and the colour value in the array element is set to zero to indicate that this array element is now free for re-use.
 
-The code's far from perfect and I may continue to fiddle with it and see if it can be turned into some sort of game.  However, I thought it might at least serve as sample code for someone who is also learning. 
+The code's far from perfect and I may continue to fiddle with it and see if it can be turned into some sort of game.  However, I thought in its current form it might at least serve as sample code for someone who is also learning. 
 
 ## Acknowledgements
 Thanks go to Matt Heffernan (The Retro Desk) for his excellent YouTube course on programming the Commander X16. This was a massive help.  
+
 Thanks also go to David Murray, Kevin Williams and the Commander X16 team for making this machine a reality.
