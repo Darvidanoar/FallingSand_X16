@@ -1,6 +1,8 @@
 # FallingSand_X16
 My first Commander X16 6502 assember coding attempt. I thought I'd try a simple 'Falling Sand' excercise.
 
+![Falling sand](/FallingSand.png)
+
 The objectives were to learn how to:
 - use the ca65 assembler
 - communicate with the VERA
